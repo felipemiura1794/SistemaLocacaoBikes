@@ -1,7 +1,10 @@
 view\TelaLocacao.class
+view\TelaRelatorios$1.class
 view\TelaManutencao$2.class
 view\TelaManutencao.class
 dao\ManutencaoDAO.class
 model\Locacao.class
 view\TelaManutencao$1.class
+view\TelaRelatorios$2.class
 dao\LocacaoDAO.class
+view\TelaRelatorios.class
